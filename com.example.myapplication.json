@@ -3,7 +3,7 @@
   "package": "com.example.myapplication",
   "author": "xpse001",
   "versionName": "1.2.0",
-  "versionCode": 1,
+  "versionCode": 12,
   "description": "抢红包,撤回,防删",
   "repo": "https://github.com/xpse001/WechatLuckyMoney",
   "source": "https://github.com/xpse001/WechatLuckyMoney/releases/download/v1.2.0/app-release.apk", 
