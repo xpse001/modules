@@ -9,5 +9,5 @@
   "source": "https://github.com/xpse001/WechatLuckyMoney/releases/download/v1.2.0/app-release.apk", 
   "icon": "https://example.com/icon.png",
   "dependencies": [], 
-  "tags": ["模块分类标签"] // 如 ["System", "UI"]
+  "tags": ["xposed","微信","红包"]
 }
