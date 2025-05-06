@@ -5,8 +5,8 @@
   "versionName": "1.2.0",
   "versionCode": 12,
   "description": "抢红包,撤回,防删",
-  "repo": "https://github.com/xpse001/WechatLuckyMoney",
-  "source": "https://github.com/xpse001/WechatLuckyMoney/releases/download/v1.2.0/app-release.apk", 
+  "repo": "https://github.com/xpse001/com.example.myapplication",
+  "source": "https://github.com/xpse001/com.example.myapplication/releases/download/v1.2.0/app-release.apk", 
   "icon": "https://example.com/icon.png",
   "dependencies": [], 
   "tags": ["xposed","微信","红包"]
